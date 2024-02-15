@@ -16,13 +16,11 @@
 
 - 🔭 I’m currently working on **Machine Learning** projects
 
-- 🌱 I’m currently learning **Data Science,Web Dev**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 Look at my portfolio [https://rohanpatankar.netlify.app](https://rohanpatankar.netlify.app)
+- 💬 Ask me about **DataScience,Ml,Dl,Generative AI**
 
-- 💬 Ask me about **DataScience,Ml,Dl,Web dev**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xlfDxs_-gmvO3Tg3OcMm3nC46A6yY3YO/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-PLSA8rN0V7r8vqDb7yMbNcAAC484wpt/view?usp=sharing])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
