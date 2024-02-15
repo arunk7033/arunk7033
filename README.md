@@ -18,7 +18,8 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **DataScience,Ml,Dl,Generative AI**
+- 💬 Ask me about **Machine Learning, Deep Learning, Statistical Analysis, Exploratory Data Analysis, Feature Engineering, OOPs,
+APIs, Web Scrapping, Natutal Language processing, Data Visualization, Generative AI, Large Language Models**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-PLSA8rN0V7r8vqDb7yMbNcAAC484wpt/view?usp=sharing])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
