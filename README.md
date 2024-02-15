@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arun-kumar-625489a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanpatankar926" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanpatankar926&label=Profile%20views&color=0e75b6&style=flat" alt="rohanpatankar926" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-kumar-625489a3&label=Profile%20views&color=0e75b6&style=flat" alt="arun-kumar-625489a3" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning** projects
 
