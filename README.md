@@ -14,14 +14,14 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-kumar-625489a3&label=Profile%20views&color=0e75b6&style=flat" alt="arun-kumar-625489a3" /> </p>
 
-- 🔭 I’m currently working on **NLP** projects
+- 🔭 I’m currently working on **Generative AI** projects
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **AI Agents**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistical Analysis, Exploratory Data Analysis, Feature Engineering, OOPs,
 APIs, Web Scrapping, Natutal Language processing, Data Visualization, Generative AI, Large Language Models**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qydhJeRSf7KUhuE1BnVrY9Oj0IDCEjAW/view?usp=drive_link])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1W0BBXshPv5IkCp8OAZjULfhP1eGaIz5B/view?usp=sharing])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
