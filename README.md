@@ -21,7 +21,7 @@
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistical Analysis, Exploratory Data Analysis, Feature Engineering, OOPs,
 APIs, Web Scrapping, Natutal Language processing, Data Visualization, Generative AI, Large Language Models**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W0BBXshPv5IkCp8OAZjULfhP1eGaIz5B])
+- 📄 Know about my experiences [https:])
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
